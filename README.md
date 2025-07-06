@@ -36,6 +36,6 @@ A new version of the analysis notebook is available
  "Based on the version 2 of the notebook findings
 You can read the updated report here:"
 
-[**Version 2 Report – Rana Saad (PDF)**](https://github.com/ranazsaad/bias_detection/blob/7679758f85ed6c8dfbf4ffe50a7286c372a27f17/version2_report-%20Rana_Saad.pdf)
+[**Version 2 Report – Rana Saad (PDF)**][(https://github.com/ranazsaad/bias_detection/blob/7679758f85ed6c8dfbf4ffe50a7286c372a27f17/version2_report-%20Rana_Saad.pdf)](https://github.com/ranazsaad/bias_detection/blob/1e3b8f2ddb4e7c990e3d4b013715988a35d50a3e/version2_report-%20Rana_Saad.pdf)
 
 
